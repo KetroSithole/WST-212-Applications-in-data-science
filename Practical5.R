@@ -1,8 +1,8 @@
 #Practical 5
 
-#Name and surname: Thabiseng mathonsi
+#Name and surname: KETRO SITHOLE 
 
-#Student number: u19304260
+#Student number: 
 
 
 library(sqldf)
